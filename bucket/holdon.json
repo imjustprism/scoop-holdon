@@ -1,10 +1,10 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Wait for anything. Know why if it doesn't.",
   "homepage": "https://github.com/imjustprism/holdon",
   "license": "MIT OR Apache-2.0",
-  "url": "https://github.com/imjustprism/holdon/releases/download/v0.2.0/holdon-x86_64-pc-windows-msvc.zip",
-  "hash": "3ace0d7f5dfbc55fbab9423b2ff0a92867148641ce44c1efa71cdde63e4ac798",
+  "url": "https://github.com/imjustprism/holdon/releases/download/v0.2.1/holdon-x86_64-pc-windows-msvc.zip",
+  "hash": "eced477be2990763360ec105db6b0839cef3c2dc7adeb802d62e6b1dc5028137",
   "extract_dir": "holdon-x86_64-pc-windows-msvc",
   "bin": "holdon.exe",
   "checkver": {
